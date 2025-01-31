@@ -82,6 +82,20 @@ this.information5 = "capuchino caramelo <br> $60.00";
 this.img6 = "/cafefrio.jpg";
 this.information6 = "capuchino caramelo <br> $65.00";
 break;
+case 4:
+this.img1 = "/pepsi.jpg";
+this.information1 = "Pepsi <br> $20.00";
+this.img2 = "/coca-light.jpg";
+this.information2 = "coca-light <br> $20.00";
+this.img3 = "/coca.jpg";
+this.information3 = "coca <br> $20.00";
+this.img4 = "/fanta.jpg";
+this.information4 = "fanta <br> $20.00";
+this.img5 = "/sidral.jpg";
+this.information5 = "sidral <br> $20.00";
+this.img6 = "/sprite.jpg";
+this.information6 = "sprite <br> $20.00";
+break;
 }//fin swith
 }//fin del metodo carrusel
 }//fin de la clase
